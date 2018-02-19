@@ -29,7 +29,7 @@
     "lodash.union": "^4.6.0"
   },
   "peerDependencies": {
-    "react": ">=15.0 || 0.14.x"
+    "react": ">=16.0 || >=15.0 || 0.14.x"
   },
   "devDependencies": {
     "eslint": "4.16.0",
